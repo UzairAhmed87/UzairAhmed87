@@ -5,6 +5,8 @@
 - 📫  You can reach me through my email at uzairahmed1574@gmail.com and LinkedIn account at www.linkedin.com/in/uzair-ahmed-415575298
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving puzzles and coding challenges, which helps me sharpen my problem-solving skills and keeps me motivated in my journey as a web developer!
+- ![Visitor Count](https://counter.dev/trackers/571774c2-ed3e-4859-a5b1-6bacd80cf740.svg)
+
 
 <!---
 UzairAhmed87/UzairAhmed87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
