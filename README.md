@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,js,ts,nodejs,express,mongodb,postgresql,html,css,cpp,Qt" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,expo,tailwind,nodejs,express,mongodb,postgresql,c,cpp,Qt" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ### 🧩 Contributions Graph
 
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=UzairAhmed87&theme=github" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzairAhmed87&theme=github-dark&hide_border=true" />
 </p>
 
 ---
