@@ -1,14 +1,52 @@
-- 👋 Hi, I’m @UzairAhmed
-- 👀 I’m interested in exploring various aspects of technology, particularly web development.
-🌱 I've learned the fundamentals of web(MERN Stack) development and have a strong command of frontend development and have a good knowledge of backend development.
-- 💞️ I’m looking to collaborate on exciting web projects where I can contribute my skills and learn from others in a collaborative environment.
-- 📫  You can reach me through my email at uzairahmed1574@gmail.com and LinkedIn account at www.linkedin.com/in/uzair-ahmed-415575298
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving puzzles and coding challenges, which helps me sharpen my problem-solving skills and keeps me motivated in my journey as a web developer!
-- ![Visitor Count](https://counter.dev/trackers/571774c2-ed3e-4859-a5b1-6bacd80cf740.svg)
+<h1 align="center">Hi 👋, I'm Uzair Ahmed</h1>
+<h3 align="center">A passionate MERN Stack & React Native Developer | CS Undergrad | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
+
+---
 
 
-<!---
-UzairAhmed87/UzairAhmed87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,js,ts,nodejs,express,mongodb,postgresql,html,css,cpp,Qt" />
+</p>
+
+---
+
+### 🚀 Projects Spotlight
+
+#### 📦 Inventory Management SaaS  
+ Cloud-based multi-tenant inventory management website featuring product/customer/vendor management and automatic bills and ledgers generation. (React.js + Express.js + Node.js + PostgreSQL + Oracle Cloud)
+ 
+ 
+#### 📚 Virtual Learning System (VLS)
+ An online learning system featuring role-based access,student/teacher registeration, video lecture integration,assignment sharing and fee verification(C++ + Qt + PostgreSQL + Supabase)
+
+ ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UzairAhmed87&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzairAhmed87&theme=radical" />
+</p>
+
+---
+
+### 🧩 Contributions Graph
+
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=UzairAhmed87&theme=github" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/uzair-ahmed-415575298/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:uzairahmed1574@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+</p>
