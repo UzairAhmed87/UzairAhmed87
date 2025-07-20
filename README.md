@@ -27,6 +27,7 @@
 
  ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -36,10 +37,18 @@
 
 ---
 
+### 💡 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairAhmed87&layout=compact&theme=radical" />
+</p>
+
+---
+
 ### 🧩 Contributions Graph
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzairAhmed87&theme=github-dark&hide_border=true" />
+  <img src="https://github-contribution-grid.vercel.app/api?username=UzairAhmed87&theme=github" />
 </p>
 
 ---
@@ -47,6 +56,10 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/uzair-ahmed-415575298/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:uzairahmed1574@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/uzair-ahmed-415575298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:uzairahmed1574@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
