@@ -16,6 +16,15 @@
 
 ---
 
+### 🙋‍♂️ About Me
+
+- 🎓 CS undergrad with a focus on full-stack development & Artificial Intelligence
+- 💻 Currently building with MERN, React Native, C++, Qt & PostgreSQL
+- 📚 Constant learner, always exploring new technologies
+- 🤝 Passionate about collaborating in teams and contributing to impactful projects
+  
+---
+
 ### 🚀 Projects Spotlight
 
 #### 📦 Inventory Management SaaS  
@@ -41,14 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairAhmed87&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🧩 Contributions Graph
-
-<p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=UzairAhmed87&theme=github" />
 </p>
 
 ---
