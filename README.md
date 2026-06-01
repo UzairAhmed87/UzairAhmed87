@@ -40,16 +40,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UzairAhmed87&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UzairAhmed87&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzairAhmed87&theme=radical" />
 </p>
 
----
-
-### 💡 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairAhmed87&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairAhmed87&layout=compact&theme=radical&count_private=true" />
 </p>
 
 ---
