@@ -55,14 +55,6 @@ An online learning platform featuring role-based access, student/teacher registr
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairAhmed87&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
