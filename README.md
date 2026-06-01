@@ -42,14 +42,7 @@ An online learning platform featuring role-based access, student/teacher registr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=UzairAhmed87&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    height="180em"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=UzairAhmed87&theme=radical"
-    height="180em"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzairAhmed87&theme=github_dark" />
 </p>
 
 ---
@@ -57,10 +50,7 @@ An online learning platform featuring role-based access, student/teacher registr
 ### 💡 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairAhmed87&layout=compact&theme=radical&count_private=true"
-    height="180em"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UzairAhmed87&theme=github_dark" />
 </p>
 
 ---
@@ -69,14 +59,6 @@ An online learning platform featuring role-based access, student/teacher registr
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairAhmed87&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UzairAhmed87&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
